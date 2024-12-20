@@ -1,0 +1,44 @@
+{
+    "rooms": [
+        {
+            "room_number": 98,
+            "Type": "double",
+            "price": 1000,
+            "availability": false
+        },
+        {
+            "room_number": 123,
+            "Type": "single",
+            "price": 988,
+            "availability": true
+        },
+        {
+            "room_number": 122,
+            "Type": "single",
+            "price": 12000,
+            "availability": false
+        },
+        {
+            "room_number": 143,
+            "Type": "double",
+            "price": 9999,
+            "availability": true
+        },
+        {
+            "room_number": 888,
+            "Type": "double",
+            "price": 25000,
+            "availability": true
+        }
+    ],
+    "bookings": [
+        {
+            "room_number": 98,
+            "customer_name": "ubaid",
+            "customer_phone": "0987654321",
+            "check_in_date": "2024-12-20",
+            "check_out_date": "2024-12-21",
+            "feedback": null
+        }
+    ]
+}
